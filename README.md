@@ -7,7 +7,8 @@ Movie Recommendations to each user is generated in results.
 
 create a folder named "movie1" in the hadoop file system.
 place the input files into them.
-command to place the files in the HDFS hadoop fs - put filename hdfs-file-path
+command to place the files in the HDFS
+hadoop fs - put filename hdfs-file-path
 
 
 
